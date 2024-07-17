@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import shutil
 from PIL import Image
 from distances import retrieve_similar_images
-from data_process2 import extract_features
+from data_processing import extract_features
 import os
 
 # Load offline signatures
